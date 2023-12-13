@@ -1,0 +1,28 @@
+{
+  "name": "vhp-webserver",
+  "version": "0.1.2",
+  "description": "server for static files for web pages and react apps",
+  "main": "server.js",
+  "scripts": {
+    "server": "node ./dev/server.js",
+    "dev": "nodemon ./dev/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VHP1946/vhp-webserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VHP1946/vhp-webserver/issues"
+  },
+  "author": "cmv",
+  "license": "ISC",
+  "homepage": "https://github.com/VHP1946/vhp-webserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "vhp-webserver": "^0.1.1"
+  },
+  "dependencies": {
+    "chart.js": "^4.2.1",
+    "node-fetch": "^3.3.0"
+  }
+}
