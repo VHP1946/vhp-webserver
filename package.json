@@ -1,6 +1,6 @@
 {
   "name": "vhp-webserver",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "server for static files for web pages and react apps",
   "main": "server.js",
   "scripts": {
